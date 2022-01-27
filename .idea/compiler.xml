@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spark" target="1.5" />
+      <module name="spark" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
